@@ -37,11 +37,6 @@ Computer Science student at York University and software developer focused on fu
 - Co-developed an AI-powered OSCE simulation platform using Next.js, TypeScript, Node.js, SQL, and Google Cloud.
 - Developed a Dialogflow chatbot with React, Node.js, and Express, including NLP intent design and tuning.
 
-## GitHub metrics
-
-[![Zaaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaaidAhmed&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)](https://github.com/ZaaidAhmed)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaaidAhmed&layout=compact&hide_border=true&theme=transparent)](https://github.com/ZaaidAhmed)
-
 ## Find me online
 
 - [Portfolio](https://zaaidahmed.netlify.app/)
